@@ -4,6 +4,8 @@ canvas {
 
 h1 {
     color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
 }
 
 body {
